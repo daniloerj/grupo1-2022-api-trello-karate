@@ -1,0 +1,83 @@
+[
+  {
+    "scenario": "crearTablero",
+    "nameBoard": "danilo-api-trello",
+    "defaultLabelsBoard": true,
+    "defaultListsBoard": true,
+    "descBoard":"este tablero es de prueba del curso",
+    "statusCodeBoard": 200,
+    "responseTimeBoard": 8000
+  },
+  {
+    "scenario": "crearTablero",
+    "nameBoard": "brian-api-trello",
+    "defaultLabelsBoard": true,
+    "defaultListsBoard": false,
+    "descBoard":"este tablero es de prueba del curso",
+    "statusCodeBoard": 200,
+    "responseTimeBoard": 6000
+  },
+  {
+    "scenario": "crearTablero",
+    "nameBoard": "gemma-api-trello",
+    "defaultLabelsBoard": false,
+    "defaultListsBoard": true,
+    "descBoard":"este tablero es de prueba del curso",
+    "statusCodeBoard": 200,
+    "responseTimeBoard": 4000
+  },
+  {
+    "scenario": "actualizarTablero",
+    "nameBoard": "danilo-api-trello",
+    "defaultLabelsBoard": true,
+    "defaultListsBoard": true,
+    "descBoard":"este tablero es de prueba del curso",
+    "statusCodeBoard": 200,
+    "responseTimeBoard": 8000
+  },
+  {
+    "scenario": "actualizarTablero",
+    "nameBoard": "brian-api-trello",
+    "defaultLabelsBoard": true,
+    "defaultListsBoard": false,
+    "descBoard":"este tablero es de prueba del curso",
+    "statusCodeBoard": 200,
+    "responseTimeBoard": 6000
+  },
+  {
+    "scenario": "actualizarTablero",
+    "nameBoard": "gemma-api-trello",
+    "defaultLabelsBoard": false,
+    "defaultListsBoard": true,
+    "descBoard":"este tablero es de prueba del curso",
+    "statusCodeBoard": 200,
+    "responseTimeBoard": 4000
+  },
+  {
+    "scenario": "eliminarTablero",
+    "nameBoard": "danilo-api-trello",
+    "defaultLabelsBoard": true,
+    "defaultListsBoard": true,
+    "descBoard":"este tablero es de prueba del curso",
+    "statusCodeBoard": 200,
+    "responseTimeBoard": 8000
+  },
+  {
+    "scenario": "eliminarTablero",
+    "nameBoard": "brian-api-trello",
+    "defaultLabelsBoard": true,
+    "defaultListsBoard": false,
+    "descBoard":"este tablero es de prueba del curso",
+    "statusCodeBoard": 200,
+    "responseTimeBoard": 6000
+  },
+  {
+    "scenario": "eliminarTablero",
+    "nameBoard": "gemma-api-trello",
+    "defaultLabelsBoard": false,
+    "defaultListsBoard": true,
+    "descBoard":"este tablero es de prueba del curso",
+    "statusCodeBoard": 200,
+    "responseTimeBoard": 4000
+  }
+]
